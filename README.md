@@ -1,2 +1,2 @@
-# MIS-310-Projects-
-MIS 310 is an introductory Python programming course. Throughout the semester, I learned different coding concepts using PyCharm and completed various assignments and projects to practice my programming skills.
+# Campus Registration -
+I created a Python program that calculates campus event registration costs based on participant type, registration day, workshop selection, and evening-session attendance. I used if/elif/else statements, Boolean expressions, and calculations to determine fees, discounts, and the final registration category.
